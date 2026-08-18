@@ -1,5 +1,4 @@
 # Demo
 This my first Git repository
 <br>
-
-Author Praveen
+Author PRAVEEN
